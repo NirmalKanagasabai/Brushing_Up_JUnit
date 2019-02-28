@@ -1,8 +1,7 @@
 package test;
+
 import org.junit.Test;
-
 import logic.FindMaximum;
-
 import static org.junit.Assert.*;
 
 public class testFindMaximum {
